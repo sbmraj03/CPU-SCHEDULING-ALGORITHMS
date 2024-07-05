@@ -3,11 +3,11 @@
 
 	 Process Status 
 
-	processID	arrivalTime	burstTime	completionTime	turnAroundTime	waitingTime
-		1		      10		20		       55		      45		    25
+	 processID	        arrivalTime	 burstTime	completionTime	       turnAroundTime	   waitingTime
+		1		      10	    20		       55		      45		    25
 		2		      0		    10		       33		      33		    23
-		3		      0		    3		       6		      6		        3
-		4		      2		    3		       9		      7		        4
+		3		      0		    3		       6		      6		            3
+		4		      2		    3		       9		      7		            4
 		5		      9		    14		       47		      38		    24
 		6		      8		    5		       26		      18		    13
 
